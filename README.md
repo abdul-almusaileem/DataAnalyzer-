@@ -1,2 +1,0 @@
-# DataAnalyzer-
-Temple Analytics Challenge 
